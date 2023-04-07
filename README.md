@@ -1,4 +1,4 @@
-Sure, here is the readme.md file as a code block. You can copy and paste it to your project folder.
+
 
 # Sales Report Dashboard
 
